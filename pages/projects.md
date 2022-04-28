@@ -12,7 +12,8 @@ projects:
     - name: 'HFUT-Tree-Hole'
       link: 'https://github.com/hfut-tree-hole/hfut-tree-hole-react'
       desc: '合肥工业大学树洞'
-      icon: 'i-carbon:ibm-cloud-internet-services'
+      icon: 'i-noto:deciduous-tree'
+
   Working:
     - name: 'HFUT-API'
       link: 'https://hfut-api-doc.vercel.app/#/'
