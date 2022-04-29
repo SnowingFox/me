@@ -13,6 +13,10 @@ projects:
       link: 'https://github.com/hfut-tree-hole/hfut-tree-hole-react'
       desc: '合肥工业大学树洞'
       icon: 'i-noto:deciduous-tree'
+    - name: 'vue-composable-form'
+      link: 'https://github.com/SnowingFox/vue-composable-form'
+      desc: 'Vue Compisiton API for form state management and validation'
+      icon: 'i-uiw:safety'
 
   Working:
     - name: 'HFUT-API'
