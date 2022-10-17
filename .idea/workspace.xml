@@ -1,0 +1,233 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="b825300c-639c-4176-83bd-439612a8a519" name="Changes" comment=":memo: update blog" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="TypeScript File" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
+  </component>
+  <component name="ProjectId" id="28QQye8KoXgiYYGmJMyodInCLcc" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;Project.color&quot;: &quot;12123e&quot;,
+    &quot;WebServerToolWindowFactoryState&quot;: &quot;false&quot;,
+    &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
+    &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
+    &quot;nodejs_package_manager_path&quot;: &quot;pnpm&quot;,
+    &quot;ts.external.directory.path&quot;: &quot;C:\\Users\\MineCraft\\Desktop\\blog\\node_modules\\typescript\\lib&quot;,
+    &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
+  }
+}</component>
+  <component name="RunManager">
+    <configuration name="dev" type="js.build_tools.npm" temporary="true" nameIsGenerated="true">
+      <package-json value="$PROJECT_DIR$/package.json" />
+      <command value="run" />
+      <scripts>
+        <script value="dev" />
+      </scripts>
+      <node-interpreter value="project" />
+      <envs />
+      <method v="2" />
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="npm.dev" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="b825300c-639c-4176-83bd-439612a8a519" name="Changes" comment="" />
+      <created>1651146591777</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1651146591777</updated>
+      <workItem from="1651146595338" duration="357000" />
+      <workItem from="1651147318464" duration="479000" />
+      <workItem from="1651147918389" duration="841000" />
+      <workItem from="1651674546891" duration="462000" />
+      <workItem from="1652064193626" duration="58000" />
+      <workItem from="1652079109613" duration="111000" />
+      <workItem from="1652618202724" duration="701000" />
+      <workItem from="1656294574168" duration="37000" />
+      <workItem from="1660023956208" duration="1419000" />
+      <workItem from="1660187798264" duration="894000" />
+      <workItem from="1660205775882" duration="42000" />
+      <workItem from="1660743485295" duration="927000" />
+      <workItem from="1664540319567" duration="411000" />
+      <workItem from="1666016334199" duration="230000" />
+      <workItem from="1666016586289" duration="62000" />
+    </task>
+    <task id="LOCAL-00001" summary="feat: init">
+      <created>1651146766267</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1651146766267</updated>
+    </task>
+    <task id="LOCAL-00002" summary="fix: fix project icon">
+      <created>1651147392396</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1651147392396</updated>
+    </task>
+    <task id="LOCAL-00003" summary="chore: optimize seo">
+      <created>1651147548088</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1651147548088</updated>
+    </task>
+    <task id="LOCAL-00004" summary="feat: use fox icon">
+      <created>1651148191712</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1651148191712</updated>
+    </task>
+    <task id="LOCAL-00005" summary=":memo: update notes">
+      <created>1651674809623</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1651674809623</updated>
+    </task>
+    <task id="LOCAL-00006" summary=":memo: update">
+      <created>1652618306275</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1652618306275</updated>
+    </task>
+    <task id="LOCAL-00007" summary=":memo: note">
+      <created>1660025202562</created>
+      <option name="number" value="00007" />
+      <option name="presentableId" value="LOCAL-00007" />
+      <option name="project" value="LOCAL" />
+      <updated>1660025202562</updated>
+    </task>
+    <task id="LOCAL-00008" summary=":memo: note">
+      <created>1660187931178</created>
+      <option name="number" value="00008" />
+      <option name="presentableId" value="LOCAL-00008" />
+      <option name="project" value="LOCAL" />
+      <updated>1660187931178</updated>
+    </task>
+    <task id="LOCAL-00009" summary=":memo: note IsUnion">
+      <created>1660189251460</created>
+      <option name="number" value="00009" />
+      <option name="presentableId" value="LOCAL-00009" />
+      <option name="project" value="LOCAL" />
+      <updated>1660189251460</updated>
+    </task>
+    <task id="LOCAL-00010" summary=":memo: note IsUnion">
+      <created>1660205799414</created>
+      <option name="number" value="00010" />
+      <option name="presentableId" value="LOCAL-00010" />
+      <option name="project" value="LOCAL" />
+      <updated>1660205799414</updated>
+    </task>
+    <task id="LOCAL-00011" summary=":memo: note MinusOne">
+      <created>1660743643181</created>
+      <option name="number" value="00011" />
+      <option name="presentableId" value="LOCAL-00011" />
+      <option name="project" value="LOCAL" />
+      <updated>1660743643181</updated>
+    </task>
+    <task id="LOCAL-00012" summary=":fire: delete file">
+      <created>1660743665106</created>
+      <option name="number" value="00012" />
+      <option name="presentableId" value="LOCAL-00012" />
+      <option name="project" value="LOCAL" />
+      <updated>1660743665106</updated>
+    </task>
+    <task id="LOCAL-00013" summary=":sparkles: use hashRoute">
+      <created>1660744062011</created>
+      <option name="number" value="00013" />
+      <option name="presentableId" value="LOCAL-00013" />
+      <option name="project" value="LOCAL" />
+      <updated>1660744062011</updated>
+    </task>
+    <task id="LOCAL-00014" summary=":art: fix eslint">
+      <created>1660744077852</created>
+      <option name="number" value="00014" />
+      <option name="presentableId" value="LOCAL-00014" />
+      <option name="project" value="LOCAL" />
+      <updated>1660744077852</updated>
+    </task>
+    <task id="LOCAL-00015" summary=":memo: update blog">
+      <created>1664540713989</created>
+      <option name="number" value="00015" />
+      <option name="presentableId" value="LOCAL-00015" />
+      <option name="project" value="LOCAL" />
+      <updated>1664540713989</updated>
+    </task>
+    <task id="LOCAL-00016" summary=":memo: update blog">
+      <created>1666016341090</created>
+      <option name="number" value="00016" />
+      <option name="presentableId" value="LOCAL-00016" />
+      <option name="project" value="LOCAL" />
+      <updated>1666016341090</updated>
+    </task>
+    <task id="LOCAL-00017" summary=":memo: update blog">
+      <created>1666016409419</created>
+      <option name="number" value="00017" />
+      <option name="presentableId" value="LOCAL-00017" />
+      <option name="project" value="LOCAL" />
+      <updated>1666016409419</updated>
+    </task>
+    <option name="localTasksCounter" value="18" />
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="feat: init" />
+    <MESSAGE value="fix: fix project icon" />
+    <MESSAGE value="chore: optimize seo" />
+    <MESSAGE value="feat: use fox icon" />
+    <MESSAGE value=":memo: update notes" />
+    <MESSAGE value=":memo: update" />
+    <MESSAGE value=":memo: note" />
+    <MESSAGE value=":memo: note IsUnion" />
+    <MESSAGE value=":memo: note MinusOne" />
+    <MESSAGE value=":fire: delete file" />
+    <MESSAGE value=":sparkles: use hashRoute" />
+    <MESSAGE value=":art: fix eslint" />
+    <MESSAGE value=":memo: update blog" />
+    <option name="LAST_COMMIT_MESSAGE" value=":memo: update blog" />
+  </component>
+</project>
